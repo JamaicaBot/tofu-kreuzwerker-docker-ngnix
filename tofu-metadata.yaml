@@ -2,4 +2,4 @@ namespace: kreuzwerker
 name: docker-ngnix
 provider: kreuzwerker
 description: Modul zur Bereitstellung eines NGINX-Containers mit dem Docker-Provider
-source: https://github.com/JamaicaBot/terraform-kreuzwerker-docker-ngnix
+source: https://github.com/JamaicaBot/tofu-kreuzwerker-docker-ngnix
